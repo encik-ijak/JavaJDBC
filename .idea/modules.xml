@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaJDBC.iml" filepath="$PROJECT_DIR$/.idea/JavaJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJDBC/LearningJDBC.iml" filepath="$PROJECT_DIR$/LearningJDBC/LearningJDBC.iml" />
+    </modules>
+  </component>
+</project>
